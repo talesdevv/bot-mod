@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://i.imgur.com/wMCQdwz.png" alt="banner" width="100%" />
-
 # 🛡️ Mod Bot
 
 **Bot de moderação para Discord com sistema de keys integrado**  
