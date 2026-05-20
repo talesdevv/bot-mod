@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/wMCQdwz.png](https://cdn.discordapp.com/attachments/1504261858268545098/1506796720221327390/logo.png?ex=6a0f914d&is=6a0e3fcd&hm=8453ba016abd3c74d86e1440e519499f93c5efc0c568a7a377364080f71d230c)" alt="banner" width="100%" />
+<img src="https://i.imgur.com/WXQ4Z0K.png" alt="banner" width="100%" />
 
 # 🛡️ Mod Bot
 
