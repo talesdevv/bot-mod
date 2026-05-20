@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/DwkfAJ2.gif" alt="banner" width="200%" />
+<img src="https://i.imgur.com/DwkfAJ2.gif" alt="banner" width="60%" />
 
 # 🛡️ Mod Bot
 
