@@ -130,7 +130,6 @@ mod-bot/
 - [ ] Suporte a múltiplos servidores com configuração independente
 - [ ] Painel de configuração geral via Discord
 - [ ] Anti-raid e proteções automáticas
-- [ ] Dashboard web para administração
 
 ---
 
